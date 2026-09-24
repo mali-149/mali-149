@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Muhammad Ali 👋
 
-<!--
-**mali-149/mali-149** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Software Engineer
 
-Here are some ideas to get you started:
+I'm a Full Stack Software Engineer with 4+ years of experience building scalable web and mobile applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on full-stack web and mobile applications
+- 💻 Experienced with React.js, Next.js, Node.js, Laravel, .NET, Django & Flutter
+- 🗄️ Working with MongoDB, MySQL, PostgreSQL and REST APIs
+- ☁️ Interested in Cloud, DevOps, CI/CD and scalable application architecture
+- 🚀 Focused on performance, clean code and building reliable software
+- 🤝 Open to collaborating on interesting software projects
+- 💬 Ask me about React, Next.js, Node.js, REST APIs, Flutter and Full Stack Development
+
+### 🛠️ Tech Stack
+
+**Frontend**
+- React.js
+- Next.js
+- Angular
+- HTML / CSS / JavaScript
+
+**Backend**
+- Node.js
+- Laravel / PHP
+- .NET
+- Django / Flask
+- REST APIs
+
+**Mobile**
+- Flutter
+
+**Databases**
+- MongoDB
+- MySQL
+- PostgreSQL
+
+**Tools & DevOps**
+- Git / GitHub
+- Docker
+- CI/CD
+- AWS
+- Linux
+
+### 📫 Connect With Me
+
+- LinkedIn: [Muhammad Ali](YOUR_LINKEDIN_URL)
+- Email: YOUR_EMAIL
