@@ -44,5 +44,5 @@ I'm a Full Stack Software Engineer with 4+ years of experience building scalable
 
 ### 📫 Connect With Me
 
-- LinkedIn: [Muhammad Ali](YOUR_LINKEDIN_URL)
-- Email: YOUR_EMAIL
+- LinkedIn: [Muhammad Ali](https://www.linkedin.com/in/mali-rn/)
+- Email: muhammadalidev149@gmail.com
