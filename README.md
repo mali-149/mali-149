@@ -17,11 +17,13 @@ I'm a Full Stack Software Engineer with 4+ years of experience building scalable
 **Frontend**
 - React.js
 - Next.js
-- Angular
 - HTML / CSS / JavaScript
+- Flutter
 
 **Backend**
 - Node.js
+- Express.js
+- Nest.js
 - Laravel / PHP
 - .NET
 - Django / Flask
@@ -29,11 +31,16 @@ I'm a Full Stack Software Engineer with 4+ years of experience building scalable
 
 **Mobile**
 - Flutter
+- React-native
+- Ionic
 
 **Databases**
 - MongoDB
 - MySQL
 - PostgreSQL
+- Oracle
+- Firebase
+  
 
 **Tools & DevOps**
 - Git / GitHub
